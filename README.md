@@ -20,7 +20,7 @@ Sou um estudante e desenvolvedor em início de carreira, movido por curiosidade,
 
 * **Conhecimento Base (Estudos Atuais):** Java, HTML5, CSS3  
 * **Nível Básico & Em Aprendizado:** JavaScript, Python, SQL (PostgreSQL), APIs  
-* **Ferramentas & IDEs:** NetBeans, Git, GitHub, Gradle  
+* **Ferramentas & IDEs:** NetBeans, Git, GitHub, Gradle, VS Code 
 * 💡 *Construindo base prática em Java e Web, enquanto exploro noções de bancos de dados, APIs e outras linguagens.*
 
 ---
